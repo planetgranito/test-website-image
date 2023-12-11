@@ -22,8 +22,8 @@ form.addEventListener("submit", (event) => {
     },
   };
   const headers = {
-    "x-api-key": "eGgnowp79B2kMJIIIedDG2uuCDRnhTOV2Q6mlIy9",
-    "Authorization" : "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Nzg0NjMyNjIsImlhdCI6MTY3NTg3MTI2Miwic3ViIjoiZmZkYWU3MTIzNmE0ZTY4NjdlMjEzMjFkNzZlNjFkNGMifQ.Q0Phl6q1kQlrFyxyFACOH_qAQxlT5hmf2an_dP9N5ZM",
+    "x-api-key": "key",
+    "Authorization" : "Bearer ",
     "Content-Type": "application/json",
   };
 
